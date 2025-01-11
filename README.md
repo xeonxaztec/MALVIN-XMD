@@ -53,15 +53,20 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 
 **Deploy to any hosting of ur choice**
 
-**1. Railway**
+**1.Heroku**
+
+•If you don't have an account in Heroku, create one.
+   <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+•Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MDX' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+**2. Railway**
 
 <p align="left">
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-purple?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
-   
-**2. Heroku**
-   
-<p align="left">
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
    
 **3. Render**
 
@@ -78,13 +83,19 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 **5. Github Workflow**
 
 
-<p align="center">
-   
-_Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it._
+ --------
+ <h4 align="center">5. Workflow</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
-   
-**Copy workflow deploy code below**
 
+<details>
+
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes name them deploy and save the file</h8>
+<h3 align-"center"> Important</h3>
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
 ```
 name: Node.js CI
@@ -121,8 +132,9 @@ jobs:
     - name: Start application
       run: npm start
 ```
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+</details> 
+<a><img
+***src='https://i.imgur.com/LyHic3i.gif'/>
 
 `✠ HOW TO DEPLOY MALVIN MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
 
