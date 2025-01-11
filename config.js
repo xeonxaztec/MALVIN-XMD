@@ -31,26 +31,5 @@ ALIVE_MSG: process.env.ALIVE_MSG || "ʜɪ ᴀᴍ ᴀʟɪᴠᴇ ɴᴏᴡ ᴀᴍ �
   
   
 MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/7pg2gp.jpg",
-START_MSG: process.env.START_MSG || `ʙᴏᴛ⇨⇨ Connected Successfully!!!!!!* ✅ 
-
- ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍᴀʟᴠɪɴ xᴍᴅ
-
-*🔹 ᴘʀᴇғɪx:* ${prefix}
-
-*🔹 ᴏᴡɴᴇʀ:* 263714757857
-
-*🖇️Join My WhatsApp Channel✓💗* 
-
-- : https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
-
-*🖇️Share Bot Repo✓💗* 
-
-- : https://github.com/kingmalvn/MALVIN-XMD 
-
-*🖇️Subscribe My Youtube Channel✓💗*
-
- - : https://www.youtube.com/malvintech2
-
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴏʀᴅ xᴍᴅ 🤹‍♂️ ʙᴇᴛᴀ ꜱᴇʀᴠɪᴄᴇ*`,
-
+    
 };
