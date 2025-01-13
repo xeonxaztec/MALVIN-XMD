@@ -43,7 +43,7 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 <p align="left">
 <a href='https://xpair-a8f5002df999.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
-**3. 2nd session**
+**3. 2nd session** (_borrowed session_)
 
 [![Get Session ID 1 Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://muzamilmegapair-1da0dbec6e71.herokuapp.com/)
 
