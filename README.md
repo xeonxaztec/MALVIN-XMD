@@ -41,7 +41,7 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 **2. Second Step** (_borrowed session_)
 
 <p align="left">
-<a href='https://sahas-md-pair-web-ibx9.onrender.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://xpair-a8f5002df999.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 **3. 2nd session**
 
