@@ -1,5 +1,3 @@
-
-
 var commands = [];
 
 function cmd(info, func) {
@@ -19,8 +17,9 @@ module.exports = {
     Function:cmd,
     Module:cmd,
     commands,
+
 };
 
 
 
-//------------------------------------------
+//COMMNAD
