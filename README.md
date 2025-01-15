@@ -91,7 +91,7 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 
 
  --------
- <h4 align="center">5. Workflow</h4>
+ <h4 align="center">6. Workflow</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
@@ -155,11 +155,11 @@ jobs:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-  ** ❖ FOR SUPPORT ❖ **
+ **❖ FOR SUPPORT ❖**
  
 <details>
 
-**`➩ ʜɪɪ ᴅᴇᴀʀs ғʀɪᴇɴᴅs ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ʜᴇʟᴘ sᴏ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ↘︎ ᴡɪᴛʜ ᴍᴇ ᴠɪᴀ ᴡʜᴀᴛsᴀᴘᴘ ɪᴛs ᴍᴇ ᴍᴀʟᴠɪɴ ✠ ᴋɪɴɢ࿐➺`**
+
 ---------
 
 <p align="center">
@@ -167,18 +167,14 @@ jobs:
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
-----------    
+<a><img src='https://i.imgur.com/LyHic3i.gif'/> 
 
-`✠ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴀʟᴠɪɴ xᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ :-ɴᴇᴡ ᴜᴘᴅᴀᴛᴇᴅ ɴᴇᴡ ᴄᴍᴅs sᴏ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴄʟɪᴄᴋ ᴛʜɪs ʀᴇᴅ ʙᴜᴛᴛᴏɴ 🔳 ᴀɴᴅ ᴊᴏɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ✠`
 
 ---------
 
 <a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
------------
 
-`✠ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴀʟᴠɪɴ xᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ :-ɴᴇᴡ ᴜᴘᴅᴀᴛᴇᴅ ᴄᴍᴅs ,sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴄʟɪᴄᴋ ᴛʜɪs ʙʟᴜᴇ ʙᴜᴛᴛᴏɴ 🔳 ᴀɴᴅ ᴊᴏɪɴ ᴛʜᴇ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ  ✠`
 
 ----------
 
