@@ -6,14 +6,14 @@ Repo         : https//github.com/kingmalvn/MALVIN-XMD
 Support      : wa.me/263714757857
 */
 
-
+EtwgAR7B#WCC_JTO8kw_fV7UBFT1hrIHtFW4z6uubA6z9Jwbxy1E
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
-}
-module.exports = {
+}false
+module.exports = {false
 SESSION_ID: process.env.SESSION_ID || "",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
