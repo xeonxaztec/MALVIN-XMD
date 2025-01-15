@@ -38,7 +38,7 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 <p align="left">
 <a href='https://github.com/kingmalvn/MALVIN-XMD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
-**2. Second Step** (_borrowed session_)
+**2. Second Step** 
 
 <p align="left">
 <a href='https://xpair-a8f5002df999.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
@@ -50,11 +50,10 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-**3.Third Step**
 
-**Deploy to any hosting of ur choice**
+**0.1 Deploy to any hosting of ur choice**
 
-**1.Heroku**
+**1.Heroku Deploy**
 
 •If you don't have an account in Heroku, create one.
    <br>
@@ -62,26 +61,33 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 
 •Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-blue?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-**2. Railway**
+**2. Railway Deploy**
 
 <p align="left">
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-purple?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+
+
+**3. Koyeb Deploy**
+
+<p align="left">
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=kingmalvn/MALVIN-XMD&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20MALVIN-XMD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+
    
-**3. Render**
+**4. Render Deploy**
 
 <p align="left">
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
 
 
 
-**4. Replit**
+**5. Replit Deploy**
 
 <p align="left">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> 
    
-**5. Github Workflow**
+**6. Github Workflow**
 
 
  --------
@@ -94,7 +100,7 @@ src="https://files.catbox.moe/7pg2gp.jpg?"/>
 <b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
  
-<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes name them deploy and save the file</h8>
+<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
 <h3 align-"center"> Important</h3>
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
@@ -137,32 +143,34 @@ jobs:
 <a><img
 ***src='https://i.imgur.com/LyHic3i.gif'/>
 
-`✠ HOW TO DEPLOY MALVIN MD ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
+`✠ 𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘔𝘈𝘓𝘝𝘐𝘕 𝘔𝘋 𝘖𝘕 𝘞𝘖𝘙𝘒𝘍𝘓𝘖𝘞𝘚 𝘍𝘙𝘌𝘌 𝘎𝘐𝘛𝘏𝘜𝘉 𝘞𝘈𝘛𝘊𝘏 𝘝𝘐𝘋𝘌𝘖 ✠`
 
--------------
+------------
 
 <p align="center">
-   <a href="https://youtu.be/C2tzcIJujyc?si=he7nPMYub4U48iUV"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+   <a href="https://youtu.be/kHdmFBowDRI?si=hSGT0rA7SKBFQwHn"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
- ### <br> ❖ FOR SUPPORT ❖
+  ** ❖ FOR SUPPORT ❖ **
+ 
+<details>
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME VIA WHATSAPP ITS ME Malvin ✠ King࿐➺`**
-
--------
+**`➩ ʜɪɪ ᴅᴇᴀʀs ғʀɪᴇɴᴅs ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ʜᴇʟᴘ sᴏ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ↘︎ ᴡɪᴛʜ ᴍᴇ ᴠɪᴀ ᴡʜᴀᴛsᴀᴘᴘ ɪᴛs ᴍᴇ ᴍᴀʟᴠɪɴ ✠ ᴋɪɴɢ࿐➺`**
+---------
 
 <p align="center">
-  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-xᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>  
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 ----------    
 
-`✠ IF YOU WANT MORE ABOUT MALVIN MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+`✠ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴀʟᴠɪɴ xᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ :-ɴᴇᴡ ᴜᴘᴅᴀᴛᴇᴅ ɴᴇᴡ ᴄᴍᴅs sᴏ ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴄʟɪᴄᴋ ᴛʜɪs ʀᴇᴅ ʙᴜᴛᴛᴏɴ 🔳 ᴀɴᴅ ᴊᴏɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ✠`
 
 ---------
 
@@ -170,12 +178,13 @@ jobs:
 
 -----------
 
-`✠ IF YOU WANT MORE ABOUT MALVIN MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+`✠ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴀʟᴠɪɴ xᴍᴅ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ :-ɴᴇᴡ ᴜᴘᴅᴀᴛᴇᴅ ᴄᴍᴅs ,sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴄʟɪᴄᴋ ᴛʜɪs ʙʟᴜᴇ ʙᴜᴛᴛᴏɴ 🔳 ᴀɴᴅ ᴊᴏɪɴ ᴛʜᴇ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ  ✠`
 
 ----------
 
 <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
+</details>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
@@ -184,21 +193,19 @@ jobs:
 <p style="text-align: center; font-size: 1.2em;">
   <strong>NB 🚫</strong><br>
    
-_I’m not responsible for you messing around and getting your account banned. As long as you don’t modify the source code to fit your idiotic needs, you’re fine. But seriously, don’t go spamming others. I’m tired of repeating this._
+_ⁱ’ᵐ ⁿᵒᵗ ʳᵉˢᵖᵒⁿˢⁱᵇˡᵉ ᶠᵒʳ ʸᵒᵘ ᵐᵉˢˢⁱⁿᵍ ᵃʳᵒᵘⁿᵈ ᵃⁿᵈ ᵍᵉᵗᵗⁱⁿᵍ ʸᵒᵘʳ ᵃᶜᶜᵒᵘⁿᵗ ᵇᵃⁿⁿᵉᵈ. ᵃˢ ˡᵒⁿᵍ ᵃˢ ʸᵒᵘ ᵈᵒⁿ’ᵗ ᵐᵒᵈⁱᶠʸ ᵗʰᵉ ˢᵒᵘʳᶜᵉ ᶜᵒᵈᵉ ᵗᵒ ᶠⁱᵗ ʸᵒᵘʳ ⁱᵈⁱᵒᵗⁱᶜ ⁿᵉᵉᵈˢ, ʸᵒᵘ’ʳᵉ ᶠⁱⁿᵉ. ᵇᵘᵗ ˢᵉʳⁱᵒᵘˢˡʸ, ᵈᵒⁿ’ᵗ ᵍᵒ ˢᵖᵃᵐᵐⁱⁿᵍ ᵒᵗʰᵉʳˢ. ⁱ’ᵐ ᵗⁱʳᵉᵈ ᵒᶠ ʳᵉᵖᵉᵃᵗⁱⁿᵍ ᵗʰⁱˢ._
 </p>
     
 ***
 
 </div>
 
-
-
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F89C75F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THANK+YOU;FOR+USIN+MALVIN+XMD" alt="Typing SVG" /></a>
 
 
-***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
+***`WARNING` : `𝘋𝘖𝘕'𝘛 𝘔𝘖𝘋𝘐𝘍𝘠 𝘛𝘏𝘐𝘚 𝘉𝘖𝘛 𝘍𝘐𝘙𝘚𝘛 𝘐𝘕𝘍𝘖𝘙𝘔 𝘛𝘏𝘌 𝘖𝘞𝘕𝘌𝘙`***
 
 <p align="center">
-  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-xᴍᴅ+ʀᴇᴘᴏ!!.+ɪᴀᴍ+ᴀsᴋɪɴɢ+ғᴏʀ+ᴘᴇʀᴍɪssɪᴏɴ+ᴛᴏ+ᴄʟᴏɴᴇ+ʏᴏᴜʀ+ʙᴏᴛ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -black?style=for-the-badge&logo=whatsapp&logoColor=white" />
